@@ -2,7 +2,7 @@ export const personalData = {
 	name: "Lazar Delic",
 	role: "Software Engineer",
 	education: [
-		"Bachelor in Electronics Engineering with specialization in software development, Western University of Applied Sciences(2019-2022)",
+		"Bachelorgrad som elektronikkingeniør med spesialisering innen programvareutvikling, Høgskulen på Vestlandet(2019-2022)",
 	],
 	contactLinks: [
 		"mailto:emailto:lazardelic22@gmail.com",
@@ -12,7 +12,7 @@ export const personalData = {
 };
 
 export const aboutMe = {
-	title: "About Me",
+	title: "Om meg",
 	body: [
 		"Som en svært motivert og målrettet person med en lidenskap for å gjøre en positiv forskjell, har jeg en unik kombinasjon av tekniske og mellommenneskelige ferdigheter, takket være min bakgrunn som utvikler og elektronikkingeniør. Jeg er i stand til å takle komplekse problemer med letthet, og jeg mister aldri synet av mitt ultimate mål, selv når jeg står overfor utfordringer.",
         "Når jeg ikke jobber, liker jeg å jobbe med hobbyprosjekter, tilbringe tid med venner og familie, og holde med fysisk aktiv. Jeg tror at min besluttsomhet, øye for detaljer, og teamspiller holdning gjør meg til en ekte ressurs for ethvert team.",
@@ -37,7 +37,7 @@ export const skills = {
 };
 
 export const professionalData = {
-	title: "Professional Experience",
+	title: "Proffesjonell Erfaring",
 	experiences: [
 		{
 			role: "Robotics Engineer, Electric Friends AS (Aug. 2022 - Present)",
@@ -49,7 +49,7 @@ export const professionalData = {
 };
 
 export const ProjectData = {
-	title: "Projects",
+	title: "Prosjekter",
 	projects: [
 		{
 			role: "Prosjektleder",
